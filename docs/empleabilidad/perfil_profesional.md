@@ -1,21 +1,21 @@
-1.Perfil Profesional Personal
+# 👨‍💻 Punto 1: Perfil Profesional Personal
 
-¿Que estudio?
+## 🎓 Formación Académica
+Actualmente curso el primer año del Grado Medio en **Sistemas Microinformáticos y Redes (SMR)**. Mi formación se centra en la base técnica necesaria para gestionar infraestructuras IT, desde el soporte físico hasta la administración lógica de sistemas.
 
-Actualmente, soy estudiante del primer curso de Grado Medio de “Sistemas Microinformáticos y Redes (SMR)”. 
+## 🚀 Áreas de Interés y Proyectos
+Me apasionan los proyectos integrales que combinan el **diseño de hardware de alto rendimiento** con la **arquitectura de redes y bases de datos**. Disfruto creando soluciones desde cero, asegurando que tanto el componente físico como el lógico funcionen en perfecta armonía.
 
-¿Que tipos de proyectos me gustan?
+## 🛠️ Stack Técnico en Desarrollo
+Durante este primer ciclo, he adquirido competencias sólidas en:
+*   **Hardware Avanzado:** Conocimiento en arquitecturas modernas (como la plataforma **AM5**) y optimización de componentes.
+*   **Redes:** Diseño de arquitecturas de red, topologías y protocolos de conexión.
+*   **Sistemas y Virtualización:** Despliegue y mantenimiento de sistemas operativos mediante el uso de entornos virtuales.
+*   **Gestión de Datos:** Modelado y administración de bases de datos utilizando el lenguaje **MySQL** y herramientas como **phpMyAdmin**.
+*   **Productividad:** Dominio de herramientas de ofimática (Word, Excel, PowerPoint) aplicadas a la gestión técnica.
 
-Me gustan aquellos proyectos que impliquen diseño de equipos informáticos, diseño de hardware, configuraciones de redes y software y creacion de bases de datos desde cero.
+## 🎯 Objetivos de Especialización
+Mi meta profesional es especializarme en la **administración de redes y sistemas**, combinándola con el diseño avanzado de bases de datos. Aspiro a ser capaz de configurar infraestructuras robustas que garanticen la máxima eficiencia y seguridad.
 
-¿Que tecnologías estoy aprendiendo?
-
-En este primer año he aprendido desde arquitecturas modernas (socket AM5...), programas para configuración y/o mantenimiento de equipos, maquinas virtuales y su respectivo uso, sistemas operativos, arquitectura de redes y sus conexiones, el uso de apps como Word, Excel o PowerPoint, el lenguaje MySQL y su uso en PhpMyAdmin, entre otras.
-
-¿En que me gustaría especializarme?
-
-Me gustaría especializarme en configuración hardware y software de equipos, junto con la arquitectura de bases de datos o la configuración y administración de redes.
-
-¿Que me motiva dentro del mundo tecnológico?
-
-Lo que mas me motiva es la lógica técnica, ver como una configuración de red bien echa o una base de datos permite que funcione un sistema sin errores. Me gusta el desafio de configurar una red y ver como los datos fluyen. Tambien me encanta montar equipos desde 0 y configurarlos.
+## 💡 Motivación Profesional
+Mi motor es la **lógica técnica**. Me genera una gran satisfacción el desafío de configurar una red compleja y comprobar cómo los datos fluyen correctamente a través de una arquitectura bien diseñada. Disfruto del proceso artesanal de montar un equipo desde cero y de la precisión necesaria para que un sistema funcione sin errores.
