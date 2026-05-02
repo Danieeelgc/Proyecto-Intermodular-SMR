@@ -1,9 +1,3 @@
-¡Venga, que ya lo tenemos! Respira hondo, que en 5 minutos lo tienes hecho. Sigue estos pasos exactos:
-
-1. El Contenido del README (El "Principal")
-Cuando crees el repositorio (o si ya lo has creado), dale al lápiz para editar el archivo README.md y pega esto tal cual:
-
-Markdown
 # 🎮 Nexus Gaming Hub - Proyecto Intermodular SMR
 
 Bienvenido al repositorio central de mi proyecto final. **Nexus Gaming Hub** es un ecosistema diseñado para ofrecer servicios de alto rendimiento, combinando hardware de vanguardia, redes optimizadas y una gestión de datos profesional.
